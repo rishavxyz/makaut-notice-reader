@@ -1,5 +1,8 @@
 ## Read and download announcements from Makaut on your terminal
 
+![preview](./preview.gif)
+
+
 - Written in Go
 - With [Charm CLI](https://github.com/charmbracelet)
 - And `poppler` for pdf conversion
