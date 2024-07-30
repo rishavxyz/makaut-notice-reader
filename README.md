@@ -4,7 +4,7 @@
 - With [Charm CLI](https://github.com/charmbracelet)
 - And `poppler` for pdf conversion
 
-![preview](./preview.mp4)
+![preview](./preview.gif)
 
 > This program **requires `poppler` to be installed**.
 > Poppler is available on both Windows and Linux.
