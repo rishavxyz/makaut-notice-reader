@@ -1,15 +1,13 @@
-## Read and download announcements from Makaut on your terminal
-
-![preview](./preview.gif)
-
+## Read and download notices from Makaut's website on your terminal
 
 - Written in Go
 - With [Charm CLI](https://github.com/charmbracelet)
 - And `poppler` for pdf conversion
 
-> That means this program **requires poppler to be installed**.
-> Poppler is available on both Windows and Linux.
+![preview](./preview.mp4)
 
+> This program **requires `poppler` to be installed**.
+> Poppler is available on both Windows and Linux.
 
 **Features**
 - Very fast
